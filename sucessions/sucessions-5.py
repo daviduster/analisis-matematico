@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # 100 linearly spaced numbers
-x = np.linspace(0, 5, 100)
+x = np.linspace(0, 2*np.pi, 100)
 # setting the axes at the centre
 fig = plt.figure()
 
